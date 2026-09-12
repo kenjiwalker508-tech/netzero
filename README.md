@@ -27,4 +27,4 @@ Websites on the same subject
 <a href="https://zerotracker.net/">Countries and companies</a><br>
 <a href="https://climateactiontracker.org/">Climate Action Tracker</a></p>
 <!-- Interactive world map data visualization of each country effort toward net-zero emission.
-Using Mapbox and GeoJson. Interactive graphs made using bokeh.-->
+Using Mapbox and GeoJson. Interactive graphs de using bokeh.-->new games new rules I'm in charge 
