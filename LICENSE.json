@@ -3,6 +3,8 @@
     "name": "Apache License 2.0",
     "identifier": "Apache-2.0",
     "url": "https://www.apache.org/licenses/LICENSE-2.0",
+    "owner": "kenjiwalker508tech",
+    "copyright": "Copyright 2026 kenjiwalker508tech",
     "description": "A permissive open source license that allows you to use, modify, and distribute software freely, with certain conditions including attribution and license notice.",
     "permissions": [
       "commercial-use",
@@ -18,4 +20,4 @@
       "warranty"
     ]
   }
-}apache version 2.0 by the real owner 
+}
